@@ -257,10 +257,8 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <summary>Godswill Kalu</summary>
     <summary>TIESSIA BOLA</summary>
     <ul>
-    <li><a href="https://www.github.com/lordwill">Github</a></li>
-    <li><a href="mailto:messagelordwill@gmail.com">e-mail</a></li>
-    <li><a href="https://www.github.com/Adamsbola">Github</a></li>
-    <li><a href="mailto:adamadu52@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Getasew7">Github</a></li>
+    <li><a href="mailto:getasewendaylalu7721@gmail.com">e-mail</a></li
     </ul>
 </details>
 
